@@ -1,0 +1,26 @@
+{
+  "name": "electron-mirror",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paco9595/electron-mirror.git"
+  },
+  "author": "Francisco Javir Villarrea Padilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paco9595/electron-mirror/issues"
+  },
+  "homepage": "https://github.com/paco9595/electron-mirror#readme",
+  "devDependencies": {
+    "electron": "^1.7.9"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}

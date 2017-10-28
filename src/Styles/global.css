@@ -1,0 +1,23 @@
+body{
+    background-color: #000;
+    color: white;
+}
+.clock{
+    display: inline-flex;
+    font-size: 80px;
+    height: 100px;
+    background-color: red;
+}
+.clock .tipo{
+    font-size: 50px;
+    height: inherit;
+    display: flex;
+    align-items: flex-end;
+    margin-left: 5px;
+}
+#fecha{
+    font-size: 20px;
+}
+.weather{
+    font-size: 80px;
+}
